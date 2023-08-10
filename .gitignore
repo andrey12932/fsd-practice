@@ -8,3 +8,5 @@ node_modules
 /.idea/Ulbi course.iml
 /.idea/vcs.xml
 /.idea/.gitignore
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/jsLinters/eslint.xml
