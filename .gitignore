@@ -1,2 +1,10 @@
 /build
 node_modules
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/i18nSettings.xml
+/.idea/modules.xml
+/extractedTranslations/en/translation.json
+/extractedTranslations/ru/translation.json
+/.idea/Ulbi course.iml
+/.idea/vcs.xml
+/.idea/.gitignore

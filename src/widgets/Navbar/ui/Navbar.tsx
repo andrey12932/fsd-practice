@@ -1,14 +1,13 @@
-import React from 'react';
-import {classNames} from "shared/lib/classNames";
-import cls from './Navbar.module.scss';
-import {AppLikTheme, AppLink} from "shared/ui/AppLink/AppLink";
-import {ThemeSwitcher} from "widgets/ThemeSwitcher";
+import React from 'react'
+import { classNames } from 'shared/lib/classNames'
+import cls from './Navbar.module.scss'
+import { AppLikTheme, AppLink } from 'shared/ui/AppLink/AppLink'
 
 interface NavbarProps {
     className?: string
 }
 
-export const Navbar = ({className}: NavbarProps) => {
+export const Navbar = ({ className }: NavbarProps) => {
     return (
         <div className={classNames(cls.navbar, {}, [className])}>
             <div className={cls.links}>
@@ -27,5 +26,5 @@ export const Navbar = ({className}: NavbarProps) => {
                 </AppLink>
             </div>
         </div>
-    );
-};
+    )
+}
