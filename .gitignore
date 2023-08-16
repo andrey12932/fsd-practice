@@ -10,3 +10,4 @@ node_modules
 /.idea/.gitignore
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/jsLinters/eslint.xml
+/.idea/stylesheetLinters/stylelint.xml
