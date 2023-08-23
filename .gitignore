@@ -12,3 +12,4 @@ node_modules
 /.idea/jsLinters/eslint.xml
 /.idea/stylesheetLinters/stylelint.xml
 /.idea/compiler.xml
+/storybook-static
