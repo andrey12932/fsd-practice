@@ -13,3 +13,5 @@ node_modules
 /.idea/stylesheetLinters/stylelint.xml
 /.idea/compiler.xml
 /storybook-static
+.loki/report.html
+.loki/report.json
